@@ -1,4 +1,5 @@
 # A simple nueral network making a prediction
+# one input
 
 weight = 0.1 
 def nueral_network(input, weight):
