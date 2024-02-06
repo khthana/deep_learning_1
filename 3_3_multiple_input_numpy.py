@@ -14,4 +14,3 @@ input = np.array([toes[0], wlrec[0], nfans[0]])
 pred = nueral_network(input, weights)
 print('======== Final Prediction ========')
 print(round(pred,2))
-                                               
